@@ -1,4 +1,4 @@
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/a7742168-0a8d-4c1d-b858-9f11b62ed3db" />** Vendor Performance Data Analytics — SQL, Python, Power BI  **
+** Vendor Performance Data Analytics — SQL, Python, Power BI **
 
 1. Conducted end-to-end analysis of 10,692+ vendor-brand records using SQL, Python, and Power BI to evaluate pricing, inventory turnover, and vendor profitability
 2. Identified 198 low-sales, high-margin brands for targeted pricing/promotions and flagged vendor concentration risk (top 10 vendors = 65.69% of purchases)
